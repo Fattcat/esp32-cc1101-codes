@@ -8,3 +8,4 @@
 - MISO -> GPIO19
 - MOSI -> GPIO23
 - CSN -> GPIO5
+## Tested 06.08.2024 et mai houm (it works and sucessfuly sent message)
