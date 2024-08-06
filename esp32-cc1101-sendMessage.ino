@@ -9,7 +9,7 @@ void setup() {
     // Nastavenie výkonu vysielača (TX power)
     // Hodnoty výkonu: -30, -20, -15, -10, 0, 5, 7, 10
     // Poznámka: Hodnoty sa môžu líšiť v závislosti od modelu CC1101 a regulácií v krajine.
-    // ELECHOUSE_cc1101.setPA(10);    // Nastaví maximálny výkon vysielača
+    ELECHOUSE_cc1101.setPA(5);    // Nastaví maximálny výkon vysielača
     // Ak nie je táto funkcia volaná, defaultný výkon je stredný (okolo 0-5 dBm, závisí od implementácie)
 }
 
