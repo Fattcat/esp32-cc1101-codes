@@ -1,6 +1,4 @@
-# esp32-cc1101-codes
-# My CC1101 TX & RX RX Test 
-
+# esp32 cc1101 test codes
 # INFO (READ IT PLS)
 - "jammerCode "WORKS" But u need to sometimes PLUG GDO0 to D2 & GDO2 to D4 !
 - Then plug USB to esp32 and to PC
