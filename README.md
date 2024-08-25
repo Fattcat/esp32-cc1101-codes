@@ -1,5 +1,5 @@
 # esp32 cc1101 test codes
-# INFO (READ IT PLS)
+# IMPORTANT INFO (READ IT PLS)
 - "jammerCode "WORKS" But u need to sometimes PLUG GDO0 to D2 & GDO2 to D4 !
 - Then plug USB to esp32 and to PC
 - Then unplug esp32 from PC and UNPLUG GDO0 & GDO2 from esp32 Pins !
